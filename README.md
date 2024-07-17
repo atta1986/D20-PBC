@@ -2,6 +2,7 @@
 D20 [1] dispersion function implemented in the periodic boundary condition (PBC) D20-PBC [2]
 # Use:
 The D20-PBC.exec accepts .vasp formated file as input and the dispersion can be calculated using the following command:
+
 D20-PBC.exec filename.vasp > file.out
 # Cite:
 Please cite the following work if you are using D20 and D20-PBC:
