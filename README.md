@@ -5,7 +5,7 @@ The D20-PBC.exec accepts .vasp formated file as input and the dispersion can be 
 
 D20-PBC.exec filename.vasp > file.out
 # Cite:
-Please cite the following work if you are using D20 and D20-PBC:
+If you use this code, please cite our papers:
 
 @ARTICLE{Jedwabny:21,
   author = {W. Jedwabny and E. Dyguda-Kazimierowicz and K. Pernal and K. Szalewicz and K. Patkowski},
