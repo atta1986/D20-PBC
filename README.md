@@ -13,6 +13,7 @@ Please cite the following work if you are using D20 and D20-PBC:
   volume = 125,
   pages = {1787-1799}
 }
+
 @ARTICLE{Atta:24,
   author = {A. U. Rehman and K. Szalewicz},
   title = {Dispersionless nonhybrid density functional},
