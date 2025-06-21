@@ -21,7 +21,7 @@ If you use this code, please cite our papers:
   author = {A. U. Rehman and K. Szalewicz},
   title = {Dispersionless nonhybrid density functional},
   journal = JCTC,
-  year = submitted,
-  volume = ,
-  pages = {}
+  year = 2025,
+  volume = 21,
+  pages = {1098-1118}
 }
