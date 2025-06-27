@@ -7,7 +7,7 @@ D20-PBC.exec filename.vasp > file.out
 # Cite:
 If you use this code, please cite our papers:
 
-@ARTICLE{Jedwabny:21,
+[1]. @ARTICLE{Jedwabny:21,
   author = {W. Jedwabny and E. Dyguda-Kazimierowicz and K. Pernal and K. Szalewicz and K. Patkowski},
   title = {Extension of an Atom−Atom Dispersion Function to Halogen Bonds and Its Use for Rational Design 
   of Drugs and Biocatalysts},
@@ -17,7 +17,7 @@ If you use this code, please cite our papers:
   pages = {1787-1799}
 }
 
-@ARTICLE{Atta:24,
+[2]. @ARTICLE{Atta:24,
   author = {A. U. Rehman and K. Szalewicz},
   title = {Dispersionless nonhybrid density functional},
   journal = JCTC,
